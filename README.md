@@ -1,9 +1,9 @@
 # Art
 All my finished Art
 ### CONTENTS
-[Gallery](https://github.com/Linux-Gamer/Art/blob/main/README.md#gallery)
+[Gallery 2022](https://github.com/Linux-Gamer/Art/blob/main/README.md#gallery 2022)
 
 
-### Gallery
+### Gallery 2022
 ![image](ArtistMug.gif)
 ![image](naturalLibreSpriteblinking.gif)
