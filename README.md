@@ -5,5 +5,5 @@ All my finished Art
 
 
 ### Gallery
-![image](https://user-images.githubusercontent.com/83363242/154816522-9869d3e0-2e6d-4d19-b0fc-2732f8512632.png)
+![image](ArtistMug.gif)
 ![image](naturalLibreSpriteblinking.gif)
