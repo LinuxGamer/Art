@@ -5,4 +5,7 @@ All my finished Art
 
 
 ### Gallery
-https://github.com/Linux-Gamer/Art/blob/main/
+https://github.com/Linux-Gamer/Art/blob/main/naturalLibreSpriteblinking.gif
+
+
+https://github.com/Linux-Gamer/Art/blob/main/ArtistMug.gif
