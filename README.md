@@ -1,8 +1,9 @@
 # Art
 All my finished Art
 ### CONTENTS
-[About Me](https://github.com/Linux-Gamer/Art/blob/main/README.md#aboutme)
-[Gallery 2022](https://github.com/Linux-Gamer/Art/blob/main/README.md#gallery2022)
+[About Me](https://github.com/LinuxGamer/Art/blob/main/README.md#aboutme)
+[Gallery 2022](https://github.com/LinuxGamer/Art/blob/main/README.md#gallery2022)
+[2022 Bad Pieces](https://github.com/LinuxGamer/Art/blob/main/README.md#2022badpieces)
 
 ### About Me
 I'm Linux Gamer; I'm an artist (digital, pixel, and animator), gamer, content creator (Twitch and YouTube), programmer and game developer.
@@ -19,6 +20,13 @@ Name: RoboMcdonald (Septembit 1st)
 
 Description: Day 1 of Saultoons Septembit challenge (prompt of farmer). Named RoboMcdonald because he's a robot and a famous farmer is Old Mcdonald XD.
 
+![image](septembit-2.png)
+
+Date: September 1st 2022
+
+Name: Firefly
+
+Description: Day 2 of Saultoons' Septembit challenge (prompt of pet). Named Firefly because it's a cool name and matches the colours, btw he's a cat.
 
 ### 2022 Bad Pieces
 ![image](ArtistMug.gif)
