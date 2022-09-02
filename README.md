@@ -28,6 +28,14 @@ Name: Firefly
 
 Description: Day 2 of Saultoons' Septembit challenge (prompt of pet). Named Firefly because it's a cool name and matches the colours, btw he's a cat.
 
+![image](septembit-3.png)
+
+Date: September 2nd 2022
+
+Name: RoboTractor
+
+Description: Day 3 of Saultoon's Septembit challenge (prompt of tractor). 
+
 ### 2022 Bad Pieces
 ![image](ArtistMug.gif)
 ![image](naturalLibreSpriteblinking.gif)
