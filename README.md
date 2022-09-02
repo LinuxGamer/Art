@@ -36,6 +36,17 @@ Name: RoboTractor
 
 Description: Day 3 of Saultoon's Septembit challenge (prompt of tractor). 
 
+![image](septembit-4.png)
+
+Date: September 2nd 2022
+
+Name: Dirt
+
+Description: Day 4 of Saultoon's Septembit challenge (prompt of dirt).
+
+
+
+
 ### 2022 Bad Pieces
 ![image](ArtistMug.gif)
 ![image](naturalLibreSpriteblinking.gif)
