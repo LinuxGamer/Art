@@ -46,7 +46,11 @@ Description: Day 4 of Saultoon's Septembit challenge (prompt of dirt).
 
 ![Winnie the Pooh](4DB7492F-B550-4114-8BB9-F3CBF4224202.png)
 
+Date: November 19th 2022
 
+Name: Winnie the Pooh
+
+Description: Winnie the Pooh piece for learning purposes.
 ### 2022 Bad Pieces
 ![image](ArtistMug.gif)
 ![image](naturalLibreSpriteblinking.gif)
