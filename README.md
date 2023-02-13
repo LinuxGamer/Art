@@ -55,3 +55,14 @@ Description: Winnie the Pooh piece for learning purposes.
 ![image](ArtistMug.gif)
 ![image](naturalLibreSpriteblinking.gif)
 
+
+### Gallery 2023
+
+![image](ef2000.png)
+
+Date: February 12th 2023
+
+Name: Eurofighter Typhoon (EF2000)
+
+Description: Eurofighter Typhoon (EF2000) study piece.
+
